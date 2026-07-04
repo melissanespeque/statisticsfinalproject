@@ -34,7 +34,7 @@ Across both Monte Carlo dynamics, the evidence — from intrinsic scatter, resid
 
 - `p06_aspa.pdf` — full write-up: theoretical background, model specification, mathematical derivations, results, and discussion
 - `p06_statistics_final.ipynb` — complete R/Stan analysis notebook (data processing, model fitting, diagnostics, figures)
-- Dataset: relaxation-time data from Nishikawa, Ghimenti, Berthier & van Wijland, *"Irreversible swap algorithms for soft sphere glasses"*, Phys. Rev. E **111**, 045416 (2025)
+- Dataset: r3d_Relaxation_Time.csv data from Nishikawa, Ghimenti, Berthier & van Wijland, *"Irreversible swap algorithms for soft sphere glasses"*, Phys. Rev. E **111**, 045416 (2025)
 
 ## Authors
 
