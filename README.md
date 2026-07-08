@@ -38,4 +38,4 @@ Across both Monte Carlo dynamics, the evidence — from intrinsic scatter, resid
 
 ## Authors
 
-Melissa D. de Almeida Nespeque, Vinicius de Souza Martins
+Melissa D. de Almeida Nespeque
